@@ -1,2 +1,2 @@
-# ts-blog.github.io
-blog for tyrol.social
+# blog.tyrol.social
+hier entsteht ein blog für tyrol.social #comingsoon
