@@ -2,10 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://blog.tyrol.social/categories/</loc>
+    <loc>https://blog.tyrol.social/post/</loc>
+    <lastmod>2022-11-02T20:54:40+01:00</lastmod>
   </url><url>
     <loc>https://blog.tyrol.social/tags/</loc>
+    <lastmod>2022-11-02T20:54:40+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.tyrol.social/post/test-beitrag/</loc>
+    <lastmod>2022-11-02T20:54:40+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.tyrol.social/tags/test1/</loc>
+    <lastmod>2022-11-02T20:54:40+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.tyrol.social/tags/test2/</loc>
+    <lastmod>2022-11-02T20:54:40+01:00</lastmod>
   </url><url>
     <loc>https://blog.tyrol.social/</loc>
+    <lastmod>2022-11-02T20:54:40+01:00</lastmod>
+  </url><url>
+    <loc>https://blog.tyrol.social/categories/</loc>
   </url>
 </urlset>
